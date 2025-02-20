@@ -76,10 +76,4 @@ Special thanks to the open-source community for providing tools and libraries th
 
 ---
 
-## 📞 Contact
-
-For questions or feedback, you can reach out via email: [your-email@example.com](mailto:your-email@example.com).
-
----
-
 Thank you for using the RKO App! We hope it helps you save lives. ❤️
